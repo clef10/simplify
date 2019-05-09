@@ -1,0 +1,13 @@
+Hi there,
+
+Please find attached your private key file.
+
+Instructions:
+	1. Download the private key file (id_rsa)
+	2. mv id_rsa ~/.ssh/ 
+	3. chmod 400 ~/.ssh/id_rsa
+
+PLEASE DO NOT SHARE IT WITH ANYONE.
+
+Regards,
+Pawan
