@@ -15,7 +15,7 @@
 # f: pem file in case of key based ssh
 # b: AWS S3 Bucket folder path to upload the backup file, if applicable (also, would require access to bucket)
 
-# Defining the paramters
+# Defining the parameters
 while getopts "h:u:s:f:k:" option
 do
 	case $option in
